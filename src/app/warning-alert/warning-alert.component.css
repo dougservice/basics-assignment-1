@@ -1,0 +1,8 @@
+.warning-alert {
+  color: red;
+  font-size: 22px;
+  text-align: center;
+  background-color: lightcoral;
+  padding: 4px;
+  border: 1px solid lightgrey;
+}
